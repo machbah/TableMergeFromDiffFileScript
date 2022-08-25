@@ -1,0 +1,5 @@
+ID DiseaseType Date DisName Name Age Sex
+1 a 12-3-22 Cholera Rahima 18 F
+2 a 12-3-22 Dia Jabbar 30 M
+3 a 12-3-22 Cholera Rahim 25 M
+7 a 12-3-22 Cholera RTE 21 M

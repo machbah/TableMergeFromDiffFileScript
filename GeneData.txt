@@ -1,0 +1,5 @@
+ID	Name	Age	Sex
+2	Jabbar	30	M
+3	Rahim	25	M
+1	Rahima	18	F
+7	RTE	21	M
